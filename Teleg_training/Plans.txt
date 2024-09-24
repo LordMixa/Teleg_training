@@ -1,0 +1,11 @@
+﻿GetLists Async +
+Удаление сообщение в List of program ?
+count of likes +
+не отправлять лайк +
+логгирование +
+работа програмы после ошибки ?
+nullable
+liked programs +
+top of likes +
+проверка на существование сообщения ?
+гит фикс +
